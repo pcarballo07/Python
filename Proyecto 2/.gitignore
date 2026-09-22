@@ -1,0 +1,15 @@
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.key
+*.pem
+.DS_Store
+Thumbs.db
+.vscode/
+*.csv
+*.xlsx
+data/
